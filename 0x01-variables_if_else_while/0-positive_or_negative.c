@@ -1,4 +1,3 @@
-#include <time.h>
 #include <stdio.h>
 /* more headers goes there */
 
@@ -22,6 +21,5 @@ int main(void)
 		printf("%d is zero\n", n);
 	else
 		printf("%d is negative\n", n);
-
 	return (0);
 }
