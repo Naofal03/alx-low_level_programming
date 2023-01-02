@@ -2,7 +2,7 @@
 /**
  * _memset - fills memory with a constant byte.
  * @s: source string
- * @b: the contant byte for filling
+ * @b: the constant byte for filling
  * @n: lenght of buffer
  * Return: new string.
  */
